@@ -1,0 +1,21 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# VSCode or JetBrains
+.vscode/
+.idea/
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
